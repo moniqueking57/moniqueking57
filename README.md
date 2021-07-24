@@ -2,9 +2,9 @@ Hi, I am Monique.
 
 About me:
 
-📚 I been learning about JavaScript and React. 
+📚 I have finished my full stack developer course, covering JavaScript, HTML, CSS, React, Node and Postgres.
 
-🌱 I am currently learning about Node and the backend. 
+🌱 I am currently learning more about Python. 
 
 <!--
 **moniqueking57/moniqueking57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
